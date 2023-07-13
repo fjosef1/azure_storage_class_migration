@@ -1,2 +1,2 @@
-# azure_storage_class_migration
+# Azure Storage Class Migration
 Migrate Azure Storage Class
